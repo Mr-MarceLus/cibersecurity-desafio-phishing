@@ -46,4 +46,4 @@
 ## Resultado após aplicação do método contra a defesa
 ![USUÁRIO E SENHA](https://github.com/user-attachments/assets/11b8a323-1403-41d8-81d6-1744a0e448be)
 
-![Texto alternativo](./passwd.png "Título opcional")
+
