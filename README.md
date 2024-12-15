@@ -8,6 +8,9 @@
 ### Configurando o Phishing no Kali Linux
 
 - Acesso root: ``` sudo -i ```
+![image](https://github.com/user-attachments/assets/b12ad70d-690d-4b13-9a36-86d23c212275)
+
+- 
 - Iniciando o setoolkit: ``` setoolkit ```
 - Tipo de ataque: ``` (1)Ataques de Engenharia Social ```
 - Vetor de ataque: ``` (2)Vetores de ataque a sites ```
